@@ -17,6 +17,7 @@ body {
     align-items: center;
     justify-content: center ;
     display:flex;
+    margin:1em 0;
 }
 
 .post {
