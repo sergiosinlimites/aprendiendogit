@@ -15,11 +15,9 @@ body {
     flex-direction: column;
     height:60px;
     align-items: center;
-    justify-content: center;
+    justify-content: center ;
     display:flex;
 }
-
-
 
 .post {
     width:70%;
