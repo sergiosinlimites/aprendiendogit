@@ -3,3 +3,31 @@ body {
     font-family: Arial;
     color:deeppink;
 }
+
+.container {
+    padding:1em;
+}
+
+.post {
+    width:70%;
+    height:400px;
+    margin:0 auto;
+    padding:1em;
+    border:2px solid #000;
+    border-radius: 1em;
+    -webkit-border-radius: 1em;
+    -moz-border-radius: 1em;
+    -ms-border-radius: 1em;
+    -o-border-radius: 1em;
+}
+
+    .post h1 {
+        font-size:3em;
+        text-align: left;
+    }
+
+    .post p {
+        font-size:1.5em;
+        color:#000;
+        text-align: left;
+    }
