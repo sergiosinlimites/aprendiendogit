@@ -94,3 +94,16 @@ body {
         .post p a {
             color:rgb(55, 85, 218);
         } 
+
+footer {
+    width:60%;
+    border:2px solid cadetblue;
+    border-radius: 0 0 10px 10px;
+    -webkit-border-radius: 0 0 10px 10px;
+    -moz-border-radius: 0 0 10px 10px;
+    -ms-border-radius: 0 0 10px 10px;
+    -o-border-radius: 0 0 10px 10px;
+    margin: 0 auto;
+    text-align:center;
+    padding:10px 1em;
+}
