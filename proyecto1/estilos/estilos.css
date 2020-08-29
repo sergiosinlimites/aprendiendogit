@@ -72,11 +72,7 @@ body {
     padding:1em;
     line-height: 30px;
     border:2px solid #fff;
-    border-radius: 0 0 10px 10px;
-    -webkit-border-radius: 0 0 10px 10px;
-    -moz-border-radius: 0 0 10px 10px;
-    -ms-border-radius: 0 0 10px 10px;
-    -o-border-radius: 0 0 10px 10px;
+
 }
 
     .post h1 {
@@ -97,6 +93,7 @@ body {
 
 footer {
     width:60%;
+    background: cadetblue;
     border:2px solid cadetblue;
     border-radius: 0 0 10px 10px;
     -webkit-border-radius: 0 0 10px 10px;
